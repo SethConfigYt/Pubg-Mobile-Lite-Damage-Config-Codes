@@ -1,1 +1,11 @@
+[ConsoleVariables]
+UseWeaponHitVelocityZ=999F +Max
+UseWeaponBulletExitVelocityZ=True
 
+[ShootWeaponBulletBase]
+UseWeaponHitDamageType=float
+UseWeaponHitBulletGravityRange=0
+UseWeaponHeadshotHitRate=99
+Value=True
+
+#Coder Xlaùś
